@@ -31,5 +31,10 @@ $Two = new two();
 $Two->callMe();
 echo 'dfdf';
 echo 'dfdf';
+echo 'dfdf';
+echo 'dfdf';
+
+
+echo 'dfdf';
 
 ?>
