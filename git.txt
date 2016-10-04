@@ -1,0 +1,42 @@
+git init
+
+git config --global user.name "gvozdev"
+
+git config --global user.email gvozdev.ua@gmail.com
+
+git config --list
+
+///////////
+для игнорирования файлов и папок в репозитории создаётся файл в корне репо .gitignore и в ней прописываются прапвила
+
+git status
+
+cd /docs
+
+git status --untracked-files=all
+
+/// Добавление файлов
+git status
+
+git add .
+
+git status
+
+git rm --cached index.php
+
+git commit -a -m"init"
+/// Коммиты, индексы, добавления 
+
+git add index.php
+
+
+
+
+
+
+
+
+
+
+
+
