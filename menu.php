@@ -32,6 +32,7 @@
 <!--  -->
 </head>
 <body>
+<div></div>
 
 	<ul class="menu">
 		<li><a href="#">Главная</a></li>
